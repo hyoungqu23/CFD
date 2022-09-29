@@ -24,10 +24,9 @@ community-for-developers
 ├─ back-end
 │  ├─ src
 │  │  ├─ db
-|  |  |  ├─ models
+│  │  ├─ models
 │  │  │  └─ schemas
-|  |  |     └─ joi-schemas
-│  │  |
+│  │  ├─ joi-schemas
 │  │  ├─ interfaces
 │  │  ├─ middlewares
 │  │  ├─ routers
